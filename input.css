@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    body, #main {
+        @apply min-h-screen;
+    }
+
+    html, body, #main {
+        @apply max-h-screen;
+    }
+}
+
+@layer utilities {
+    a.nav:not([aria-current="page"]) {
+        @apply hover:bg-main-color hover:bg-opacity-75;
+    }
+
+    .tabs:has(:not(.active)) {
+        @apply text-gray-700 hover:text-main-color;
+    }
+
+    .tabs:has(.active) {
+        button.tab:not(.active) {
+            @apply border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700;
+        }
+
+        button.tab.active {
+            @apply border-base-color text-main-color;
+        }
+    }
+}
+
+

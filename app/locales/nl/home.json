@@ -1,0 +1,25 @@
+{
+  "banner" : {
+    "title" : "Zoek hier gemakkelijk voor projecten van privé-bedrijven"
+  },
+  "sub_header_paragraph" : "Met het zoeken van deftige projecten kan je altijd wel iets interessants en uitdagend <b>uivoeren</b>",
+  "handshake_textbox_1" : "Ik zoek voor een project",
+  "handshake_textbox_2" : "Ik voer en project uit",
+  "cards": {
+    "title": "Voorbeeld van slimme zaken"
+  },
+  "company": {
+    "title": "Ben je wel degelijk <b>slim ?</b>",
+    "sub_title": "Wist je dat <b>slim zijn</b> wel zeer interessant is voor de <b>maatschappij?</b>",
+    "icon1_label": "Meer impact",
+    "icon2_label": "Zoek voor en doel",
+    "icon3_label": "Zorg voor protest",
+    "icon4_label": "Innovatie",
+    "icon5_label": "Veel geld",
+    "icon6_label": "Afbeeldingen",
+    "and_more": "En meer...",
+    "quote": "<b>\"</b>Dit is een citatie van iemand met een goede ervaring<b>\"</b> Entreprise",
+    "search_cta": "Een project OPZOEKEN",
+    "submit_cta": "Een project AANBIEDEN"
+  }
+}

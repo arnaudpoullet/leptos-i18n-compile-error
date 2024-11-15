@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "search_project_label": "Chercher un projet",
+    "search_project_path": "rechercher",
+    "submit_project_label": "Proposer un projet",
+    "submit_project_path": "proposer",
+    "featured_projects_label": "Projets à la une",
+    "featured_projects_path": "projets-a-la-une",
+    "contact_label": "Contact",
+    "contact_path": "contact"
+  }
+}

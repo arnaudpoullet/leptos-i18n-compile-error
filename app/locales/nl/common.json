@@ -1,0 +1,12 @@
+{
+  "menu": {
+    "search_project_label": "Project opzoeken",
+    "search_project_path": "zoeken",
+    "submit_project_label": "Project aanbieden",
+    "submit_project_path": "aanbieden",
+    "featured_projects_label": "Speciale projecten",
+    "featured_projects_path": "speciale-projecten",
+    "contact_label": "Contact",
+    "contact_path": "contact"
+  }
+}

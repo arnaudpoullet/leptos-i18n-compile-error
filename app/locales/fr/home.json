@@ -1,0 +1,25 @@
+{
+  "banner" : {
+    "title" : "Rechercher des projets venant au bout du compte du secteur privé"
+  },
+  "sub_header_paragraph" : "Trouvez les meilleurs projets pour des <b>partenariats win-win</b>",
+  "handshake_textbox_1" : "Je suis à la recherche",
+  "handshake_textbox_2" : "Je réalise des projets",
+  "cards": {
+    "title": "Exemple de projets"
+  },
+  "company": {
+    "title": "Je suis une <b>ENTREPRISE</b>",
+    "sub_title": "Saviez-vous qu’il y a <b>plein de bonnes raisons</b> de collaborer avec des <b>associations?</b>",
+    "icon1_label": "Impact amplifié",
+    "icon2_label": "Stratégie RSE renforcée",
+    "icon3_label": "Motivation des employés",
+    "icon4_label": "Innovation",
+    "icon5_label": "Avantages financiers",
+    "icon6_label": "Image améliorée",
+    "and_more": "Et bien plus...",
+    "quote": "<b>\"</b>Ceci est une citation d'une bonne expérience<b>\"</b> Entreprise",
+    "search_cta": "CHERCHER un projet",
+    "submit_cta": "PROPOSER un projet"
+  }
+}

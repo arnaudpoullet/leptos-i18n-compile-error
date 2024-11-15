@@ -1,0 +1,25 @@
+{
+  "banner" : {
+    "title" : "Look here voor projects from private comanies"
+  },
+  "sub_header_paragraph" : "If you look out for good opportunities, you'll quickly see how amazing it is to actually <b>do something</b>",
+  "handshake_textbox_1" : "I am looking for a project",
+  "handshake_textbox_2" : "I am executing a project",
+  "cards": {
+    "title": "Smart project examples"
+  },
+  "company": {
+    "title": "Are you actually <b>smart ?</b>",
+    "sub_title": "Did you know that <b>being smart</b> is actually is an actually pretty good thing for our <b>society?</b>",
+    "icon1_label": "Better impact",
+    "icon2_label": "Be the target",
+    "icon3_label": "Civil wars",
+    "icon4_label": "Plant ideas",
+    "icon5_label": "More money",
+    "icon6_label": "Better pictures",
+    "and_more": "And more...",
+    "quote": "<b>\"</b>This is a quote about a good experience<b>\"</b> Entreprise",
+    "search_cta": "SEARCH for a project",
+    "submit_cta": "SUBMIT a project"
+  }
+}
